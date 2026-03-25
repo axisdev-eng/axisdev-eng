@@ -1,28 +1,22 @@
 # 💫 About Me:
 
-🚀 Quick Bio
+🚀 Quick Bio <br>
 🎨 Frontend & UI/UX: I build clean, high-contrast interfaces using React, Next.js, and Tailwind CSS.
 
-♨️ App Logic: I write the "brain" of my apps using JavaScript and Java.
+♨️ App Logic: I use JavaScript and Java.
 
-🐍 Backend Hobbyist: I use Python and Flask to handle data and build simple server tools.
+🐍 Backend: I use Python and Flask to handle data and build simple server tools.
 
-🕹️ Game Engineering: I build 3D worlds and game mechanics in Unity, Unreal Engine, and Lua.
+🕹️ Game Engineering: I build 3D games mechanics in Unity, Unreal Engine, and Lua.
 
 ✨ Digital Art & Design: I create 3D models in Blender and 2D assets in Photoshop and Krita.
 
 ☁️ Cloud & Infrastructure: I use Firebase, Cloudflare, and Google Cloud to host my projects.
 
-☕ The Fuel: I turn coffee into code!
-
-
-
-
 
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1293762900086751253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:axis44@gmail.com) 
-
 
 
 # 💻 Tech Stack:
@@ -31,13 +25,9 @@
 
 
 
-
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 ---
 
