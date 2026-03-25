@@ -4,7 +4,7 @@ Hi! I’m Axis, a coffee-loving dev who enjoys coding mini-projects. I specializ
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1293762900086751253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:axis44@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1293762900086751253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushman357@gmail.com) 
 
 
 # 💻 Tech Stack:
