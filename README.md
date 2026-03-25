@@ -1,18 +1,6 @@
 # 💫 About Me:
 
-🚀 Quick Bio <br>
-🎨 Frontend & UI/UX: I build clean, high-contrast interfaces using React, Next.js, and Tailwind CSS.
-
-♨️ App Logic: I use JavaScript and Java.
-
-🐍 Backend: I use Python and Flask to handle data and build simple server tools.
-
-🕹️ Game Engineering: I build 3D games mechanics in Unity, Unreal Engine, and Lua.
-
-✨ Digital Art & Design: I create 3D models in Blender and 2D assets in Photoshop and Krita.
-
-☁️ Cloud & Infrastructure: I use Firebase, Cloudflare, and Google Cloud to host my projects.
-
+Hi! I’m Axis, a coffee-loving dev who enjoys coding mini-projects. I specialize in frontend and design. I make games using Godot and Unity. Asides i make fan art and watch anime. Presently leaarning C and C++
 
 ## 🌐 Socials:
 
