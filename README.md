@@ -1,6 +1,19 @@
 # 💫 About Me:
 
-𝔸𝕩𝕚𝕤 <br>•🎨 Frontend Developer <br>•♨️ JavaScript / Java <br>•🐍 Python (basic backend) <br>• ☕︎ Coffee-driven
+🚀 Quick Bio
+🎨 Frontend & UI/UX: I build clean, high-contrast interfaces using React, Next.js, and Tailwind CSS.
+
+♨️ App Logic: I write the "brain" of my apps using JavaScript and Java.
+
+🐍 Backend Hobbyist: I use Python and Flask to handle data and build simple server tools.
+
+🕹️ Game Engineering: I build 3D worlds and game mechanics in Unity, Unreal Engine, and Lua.
+
+✨ Digital Art & Design: I create 3D models in Blender and 2D assets in Photoshop and Krita.
+
+☁️ Cloud & Infrastructure: I use Firebase, Cloudflare, and Google Cloud to host my projects.
+
+☕ The Fuel: I turn coffee into code!
 
 
 
